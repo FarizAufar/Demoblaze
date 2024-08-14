@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify user successfully purchase item</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c1c6c59a-99dd-413e-881f-8bc6212cbd81</testCaseGuid>
+</TestCaseEntity>

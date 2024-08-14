@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify user successfully sign up</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>da07b0ed-f6f6-45bd-93a9-4b89eb3d3cd3</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Home (current)</name>
+   <tag></tag>
+   <elementGuidId>e9805397-5982-463e-a06a-d8ab40efa37a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbarExample']/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.nav-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8683d590-70de-468b-9455-3771966c076e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link</value>
+      <webElementGuid>f8a73060-4f25-4b72-9fab-4390ce21d46b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>index.html</value>
+      <webElementGuid>24a2d023-d940-4596-86b2-187575659db6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Home (current)</value>
+      <webElementGuid>8b257f8f-067a-407f-b687-8a6a40d7db05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbarExample&quot;)/ul[@class=&quot;navbar-nav ml-auto&quot;]/li[@class=&quot;nav-item active&quot;]/a[@class=&quot;nav-link&quot;]</value>
+      <webElementGuid>af67a203-88c1-4892-8a22-3cb80f3d6a5c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarExample']/ul/li/a</value>
+      <webElementGuid>9d711469-4c73-4fea-9489-d195ff6a1aee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PRODUCT STORE'])[1]/following::a[1]</value>
+      <webElementGuid>3b770f56-4c47-42fc-9f90-d1d814b5763b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[4]/following::a[2]</value>
+      <webElementGuid>82547ad3-f48b-4116-a257-c0b2651a5c17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cart'])[1]/preceding::a[3]</value>
+      <webElementGuid>43f4cf6f-dab8-428f-bdca-8481c471b2e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Home']/parent::*</value>
+      <webElementGuid>259f050a-9c07-46b9-857c-fcb8aa0a4d72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'index.html')])[2]</value>
+      <webElementGuid>c3779ff2-dc60-42f4-b8dd-8767b3bb6593</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a</value>
+      <webElementGuid>874fa65e-fb63-4ec8-b652-d12bf8bcc9f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'index.html' and (text() = 'Home (current)' or . = 'Home (current)')]</value>
+      <webElementGuid>b5568074-63a3-44bb-a043-6e1266474efd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify user successfully send message from contact button</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>065a28a9-b27f-45be-a64d-a6964fd1f7fe</testCaseGuid>
+</TestCaseEntity>

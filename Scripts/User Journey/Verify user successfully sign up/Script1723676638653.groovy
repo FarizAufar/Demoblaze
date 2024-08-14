@@ -29,7 +29,5 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Selector Demoblaze/Page
 
 WebUI.click(findTestObject('Object Repository/Selector Demoblaze/Page_STORE/button_Sign up'))
 
-WebUI.waitForPageLoad(0)
-
 WebUI.closeBrowser()
 
