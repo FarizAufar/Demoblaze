@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify user able to see About Us button on web header</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c98ae1d9-1b0b-4d44-a7f9-6a1c0b618e51</testCaseGuid>
+</TestCaseEntity>

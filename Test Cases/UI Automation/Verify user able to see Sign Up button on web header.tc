@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify user able to see Sign Up button on web header</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>89125848-6f93-44d1-9661-f10e5b784e32</testCaseGuid>
+</TestCaseEntity>

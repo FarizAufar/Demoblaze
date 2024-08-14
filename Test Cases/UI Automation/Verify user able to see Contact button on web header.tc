@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify user able to see Contact button on web header</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d4e1c839-fe7c-4cb8-86fd-1975661e50ab</testCaseGuid>
+</TestCaseEntity>

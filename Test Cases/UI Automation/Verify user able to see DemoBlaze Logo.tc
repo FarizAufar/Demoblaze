@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify user able to see DemoBlaze Logo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6dc9a9f0-8b47-42bd-beca-159134f5c9a4</testCaseGuid>
+</TestCaseEntity>
